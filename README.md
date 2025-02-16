@@ -1,4 +1,4 @@
-# pythonresimduzenleme import tkinter as tk
+# python resim duzenleme import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, colorchooser
 from PIL import Image, ImageTk, ImageEnhance, ImageFilter, ImageDraw, ImageFont
 import os 
